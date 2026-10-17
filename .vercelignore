@@ -1,7 +1,6 @@
 .git
 .vercel
-.env
-.env.*
+.env*
 examples
 LICENSES
 README.md
