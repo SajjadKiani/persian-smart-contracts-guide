@@ -1,0 +1,9 @@
+.git
+.vercel
+.env
+.env.*
+examples
+LICENSES
+README.md
+THIRD_PARTY_NOTICES.md
+*.log
